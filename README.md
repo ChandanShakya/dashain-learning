@@ -1,27 +1,29 @@
 # Dashain Learning Sprint
 
-My Dashain 2026 learning sprint (Oct 14-25) — working through free Laracasts courses,
+My Dashain 2026 learning sprint (Oct 17-25) — working through free Laracasts courses,
 from PHP basics all the way to Laravel, Livewire, and Vue. Every bit of practice code
 gets dumped here, organized by series.
 
+Restarted Oct 17 from PHP For Beginners episode 3. 9 days, ~4h/day, ~36h of video.
+
 Account: ChandanShakya on Laracasts.
 
-## The 12-day plan (~48h of video, ~4h/day)
+## The 9-day plan
 
 | Day | Date | Focus | What to watch |
 |-----|------|-------|---------------|
-| 1 | Wed Oct 14 | PHP | PHP For Beginners eps 8-20 + PHP 8 Crash Course |
-| 2 | Thu Oct 15 | PHP | PHP For Beginners eps 21-34 |
-| 3 | Fri Oct 16 | PHP | PHP For Beginners eps 35-48 (finish PHP) |
-| 4 | Sat Oct 17 | Laravel | Laravel From Scratch (2026) eps 1-14 |
-| 5 | Sun Oct 18 | Laravel | Laravel From Scratch eps 15-28 |
-| 6 | Mon Oct 19 | Laravel | Laravel From Scratch eps 29-43 + What's New in Laravel 11 |
-| 7 | Tue Oct 20 | Livewire | Livewire 3 From Scratch (all 29 eps) |
-| 8 | Wed Oct 21 | Livewire | Everything New in Livewire 4 + Alpine.js Essentials (part 1) |
-| 9 | Thu Oct 22 | Tools | Alpine.js Essentials (part 2) + Pest From Scratch + Laravel Horizon + Telescope |
-| 10 | Fri Oct 23 | Vue | Learn Vue 3 eps 1-16 + Small Laravel Packages, Big Impact |
-| 11 | Sat Oct 24 | Vue | Learn Vue 3 eps 17-31 + Leveraging AI for Laravel Development (part 1) |
-| 12 | Sun Oct 25 | Inertia | Leveraging AI for Laravel Development (part 2) + Build Modern Laravel Apps with Inertia.js |
+| 1 | Sat Oct 17 | PHP | PHP For Beginners eps 3–18 |
+| 2 | Sun Oct 18 | PHP | PHP For Beginners eps 19–33 |
+| 3 | Mon Oct 19 | PHP | PHP For Beginners eps 34–48 (finish PHP) |
+| 4 | Tue Oct 20 | Laravel | Laravel From Scratch (2026) eps 1–15 |
+| 5 | Wed Oct 21 | Laravel | Laravel From Scratch eps 16–29 |
+| 6 | Thu Oct 22 | Laravel | Laravel From Scratch eps 30–43 (finish Laravel) |
+| 7 | Fri Oct 23 | Livewire | Livewire 3 From Scratch (all 29 eps) |
+| 8 | Sat Oct 24 | Livewire + Vue | Everything New in Livewire 4 + Learn Vue 3 eps 1–10 |
+| 9 | Sun Oct 25 | Vue | Learn Vue 3 eps 11–31 (finish) |
+
+Stretch goals if ahead of schedule: Alpine.js Essentials, Pest From Scratch,
+What's New in Laravel 11, Learn Laravel Forge.
 
 ## Course links
 
